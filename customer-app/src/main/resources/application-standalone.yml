@@ -3,4 +3,4 @@ selmag:
     catalogue:
       uri: http://localhost:8081
 server:
-  port: 8083
+  port: 8084
